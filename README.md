@@ -36,3 +36,22 @@ My Write-Ups for challenges I solved in VishwaCTF 2024
 
  \> [Secret Code]() :
 
+---------------------------------------------
+
+# Web Category:
+
+ \> [Save The City](https://github.com/S0nG0ku0/VishwaCTF_Web_Writeups/blob/main/Save_The_City/README.md) :
+
+ \> [MediCare Pharma](https://github.com/S0nG0ku0/VishwaCTF_Web_Writeups/blob/main/MediCare_Pharma/README.md) ;
+
+ \> [Recipe Archival Workshop](https://github.com/S0nG0ku0/VishwaCTF_Web_Writeups/blob/main/Recipe_Archival_Workshop/README.md) :
+
+ ---------------------------------------------
+
+# Cryptography Category:
+
+ \> []() :
+
+ \> []() ;
+
+ \> []() :
