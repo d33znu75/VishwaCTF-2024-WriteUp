@@ -6,11 +6,11 @@ My Write-Ups for challenges I solved in VishwaCTF 2024
 
 # Forensics Category:
 
-\> [Smoke out the Rat]() :
+\> [Smoke out the Rat](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Forensics%20Category/Smoke%20out%20the%20Rat.md) :
 
-\> [Repo Riddles]() :
+\> [Repo Riddles](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Forensics%20Category/Repo%20Riddles.md) :
 
-\> [Router |port|]() :
+\> [Router |port|](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Forensics%20Category/Router%20%7Cport%7C.md) :
 
 
 ---------------------------------------------
