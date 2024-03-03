@@ -30,11 +30,11 @@ My Write-Ups for challenges I solved in VishwaCTF 2024
 
 # Steganography Category:
 
- \> [We Are Valorant]() :
+ \> [We Are Valorant](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Steganography%20Category/We%20Are%20Valorant.md) :
 
- \> [Mysterious Old Case]() ;
+ \> [Mysterious Old Case](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Steganography%20Category/Mysterious%20Old%20Case.md) ;
 
- \> [Secret Code]() :
+ \> [Secret Code](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Steganography%20Category/Secret%20Code.md) :
 
 ---------------------------------------------
 
@@ -50,8 +50,8 @@ My Write-Ups for challenges I solved in VishwaCTF 2024
 
 # Cryptography Category:
 
- \> []() :
+ \> [Poly Fun](https://github.com/imenyoo2/ctf_writeups/blob/main/vishwactf/Poly%20Fun.md) :
 
- \> []() ;
+ \> [Intellectual Heir](https://github.com/imenyoo2/ctf_writeups/blob/main/vishwactf/Intellectual%20Heir.md) ;
 
- \> []() :
+ \> [Happy Valentine's Day](https://github.com/imenyoo2/ctf_writeups/blob/main/vishwactf/Happy%20Valentine's%20Day.md) :
