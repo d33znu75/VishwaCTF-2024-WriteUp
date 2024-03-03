@@ -42,7 +42,7 @@ And the other file suggests that these numbers might be related to the earlier i
 
 those are pixel cooredination so i made a pyhton script to put in those coordinations a black dot
 
-```
+```p
 from PIL import Image, ImageDraw
 
 def draw_points_on_blank_image(coordinates):
