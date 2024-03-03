@@ -17,13 +17,13 @@ My Write-Ups for challenges I solved in VishwaCTF 2024
 
 # OSINT Category:
 
- \> [The end is beginning]() :
+ \> [The end is beginning](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/OSINT%20Category/The%20end%20is%20beginning.md) :
 
- \> [Sagar Sangram]() :
+ \> [Sagar Sangram](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/OSINT%20Category/Sagar%20Sangram.md) :
 
- \> [ifconfig_net]() :
+ \> [ifconfig_net](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/OSINT%20Category/ifconfig_inet.md) :
 
- \> [TRY HACK ME]() :
+ \> [TRY HACK ME](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/OSINT%20Category/TRY%20HACK%20ME.md) :
 
 
 ---------------------------------------------
