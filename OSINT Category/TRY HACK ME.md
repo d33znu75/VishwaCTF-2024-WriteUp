@@ -20,7 +20,7 @@ Upon visiting the VishwaCTF official website to search for team members, we proc
 
 and to see a profile in try hack me you need his username and put it in the url
 
-!()[https://cdn.discordapp.com/attachments/1067452256686981161/1213940205195886644/Screen_Shot_2024-03-03_at_9.04.30_PM.png?ex=65f74cea&is=65e4d7ea&hm=186d598c58f3e3f3eed16a688e8326ad80a6d39f371e219e9c4aab2ebfa398d6&]
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1213940205195886644/Screen_Shot_2024-03-03_at_9.04.30_PM.png?ex=65f74cea&is=65e4d7ea&hm=186d598c58f3e3f3eed16a688e8326ad80a6d39f371e219e9c4aab2ebfa398d6&)
 
 
 FLAG : 
