@@ -1,5 +1,5 @@
 # VishwaCTF 2024 Write Up
-Our Write-Ups for challenges we solved in VishwaCTF 2024 as Slt3brgr Team (Final rank #22)
+Our Write-Ups for challenges we solved in VishwaCTF 2024 as [Slt3brgr](https://redahmimchi.github.io/slt3brgr/) Team (Final rank #22)
 
 ![](https://media.discordapp.net/attachments/1067452256686981161/1213914335244722176/Screen_Shot_2024-03-03_at_7.19.57_PM.png?ex=65f734d2&is=65e4bfd2&hm=a2db59fdc27d569a0bb18fc522461f4479e85320f058d5d862e6c2aca8ad1c39&=&format=webp&quality=lossless&width=1100&height=462)
 
@@ -52,7 +52,7 @@ Our Write-Ups for challenges we solved in VishwaCTF 2024 as Slt3brgr Team (Final
 
  \> [They Are Coming](https://github.com/S0nG0ku0/VishwaCTF_Web_Writeups/tree/main/They_Are_Coming) : `200 Points`
 
- \> [Prompt Injection]() : `750 Points`
+ \> [Prompt Injection](https://github.com/imenyoo2/ctf_writeups/blob/main/vishwactf/Prompt%20Injection.md) : `750 Points`
 
  ---------------------------------------------
 
