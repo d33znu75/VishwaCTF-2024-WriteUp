@@ -64,7 +64,7 @@ Our Write-Ups for challenges we solved in VishwaCTF 2024 as Slt3brgr Team (Final
 
  \> [Happy Valentine's Day](https://github.com/imenyoo2/ctf_writeups/blob/main/vishwactf/Happy%20Valentine's%20Day.md) : `200 Points`
 
- \> [Teyvat Tales](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Cryptography%20Category/Sandese%20Aate%20hai.md) : `300 Points`
+ \> [Teyvat Tales](https://github.com/RedaHmimchi/VishwaCTF-2024-WriteUp/blob/main/Cryptography%20Category/Teyvat%20Tales.md) : `300 Points`
 
  ---------------------------------------------
 
