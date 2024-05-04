@@ -37,7 +37,7 @@ After exporting the SSL keys from the ftp-data and discovering that they were en
 
 Given that we knew the username was "Anonymous", we conducted a simple string search within the decrypted traffic to find the corresponding password. Eventually, we found a password which turned out to be the flag we were seeking.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213931661331402812/Screen_Shot_2024-03-03_at_8.30.41_PM.png?ex=65f744f5&is=65e4cff5&hm=aa43d235bb5182f2a4f143c4a639e263cf43595dcfe736f07b7c3d64f9f36615&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213931661331402812/Screen_Shot_2024-03-03_at_8.30.41_PM.png)
 
 FLAG : 
 > VishwaCTF{K3Y5_CAN_0P3N_10CK5}
