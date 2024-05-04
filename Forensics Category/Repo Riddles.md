@@ -31,7 +31,7 @@ string[3: 6] = G1g
 
 string[0] = G string[1] = 1 string[2] = t
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213925109228638368/Screen_Shot_2024-03-03_at_8.04.48_PM.png?ex=65f73edb&is=65e4c9db&hm=7d013abe00152d3c108b439571d57f48f7cee9bd24ea6844a6b87400f0279cce&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213925109228638368/Screen_Shot_2024-03-03_at_8.04.48_PM.png)
 
 
 Flag:
