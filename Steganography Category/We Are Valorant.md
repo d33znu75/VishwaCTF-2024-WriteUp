@@ -18,7 +18,7 @@ Since we have a gif, the only thing we need to do is inspect its frames.
 
 Looking at all frames, we noticed a frame with hidden text "Tenz", so it's the password to get the data inside the image.
 
-![](https://cdn.discordapp.com/attachments/1206718275371667506/1213520223005573130/passw.png?ex=65f5c5c7&is=65e350c7&hm=de1fe229a9ae3691797514eff96fc741812256e685928cf47b2d7a93e6686df8&)
+![](https://cdn.discordapp.xyz/attachments/1206718275371667506/1213520223005573130/passw.png)
 
 The .txt file extracted from the image contains:
 
