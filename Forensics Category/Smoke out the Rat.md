@@ -16,17 +16,17 @@ The challenge description instructed us to find the first name of the traitor wi
 
 Through a simple search, we identified the traitor as Matthew Williams.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213918977999241286/Screen_Shot_2024-03-03_at_7.40.28_PM.png?ex=65f73925&is=65e4c425&hm=cc785bf0c3d9b7f56abdad8c3317f44aff5bb29dc83c233bff080c4bbcbc6bfb&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213918977999241286/Screen_Shot_2024-03-03_at_7.40.28_PM.png)
 
 Now, moving on to the outsider who is part of the maintenance team:
 
 Within the database, we found a table of maintainers containing only one person, named John.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213918110940270652/Screen_Shot_2024-03-03_at_7.36.58_PM.png?ex=65f73857&is=65e4c357&hm=1a89dd0e4e96b52d6b6ad767b64ad91e2a7b2f2c91be42625563481da472109f&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213918110940270652/Screen_Shot_2024-03-03_at_7.36.58_PM.png)
 
 To proceed, we need to determine John's last name, so we performed a search for his name.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213919678003552387/Screen_Shot_2024-03-03_at_7.43.15_PM.png?ex=65f739cc&is=65e4c4cc&hm=32f90a81ac164cf83fc70d4414d22f160618a279bed8091f69a6bf03259801b6&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213919678003552387/Screen_Shot_2024-03-03_at_7.43.15_PM.png)
 
 for timestamp you must convert it to IST (Indian Standard Time).
 
