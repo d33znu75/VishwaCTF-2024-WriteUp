@@ -81,7 +81,7 @@ print("Image created 'image_final.jpg'")
 
 ```
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1213953043306119168/image_with_points.jpg?ex=65f758df&is=65e4e3df&hm=3bcc249add5df7b567573e93a19ee8867886ff393cf970f84cebc9b8d9f29cf1&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1213953043306119168/image_with_points.jpg)
 
 FLAG : 
 > VishwaCTF{th15_15_4_5up3r_53cr3t_c0d3_u53_1t_w153ly_4nd_d0nt_5h4re_1t_w1th_4ny0ne}
